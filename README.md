@@ -9,9 +9,9 @@
 | Dataset ID | `511555` |
 | Location | Peoria |
 | Category | Restaurants |
-| Full dataset size | 415 records |
-| Free sample size | 40 records (9.64%) |
-| Last export | 2026-04-07T13:25:24.387849+00:00 |
+| Full dataset size | 400 records |
+| Free sample size | 40 records (10.0%) |
+| Last export | 2026-04-14T20:35:08.080252+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-peoria-illinois-us-sample-511555/releases/download/sample-latest/beamstation_511555_restaurants-us-il_SAMPLE_DIST.csv) |
 
 ## What is in this sample
