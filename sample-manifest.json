@@ -1,12 +1,12 @@
 {
-  "export_job_id": "8b7032d8-4370-4fbe-8124-6988dd5f8932",
+  "export_job_id": "ab671e66-6962-48ac-b2df-de337fa0ee03",
   "id_short": 511555,
-  "published_at": "2026-04-17T07:01:53Z",
+  "published_at": "2026-04-18T19:16:38Z",
   "repo_name": "all-restaurants-in-peoria-illinois-us-sample-511555",
   "sample_asset_name": "beamstation_511555_restaurants-us-il_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/511555/beamstation_511555_restaurants-us-il_SAMPLE_DIST.csv",
   "sample_records": 40,
   "sample_sha256": "d260c0083e82ed0593b5bfa6c184a0f4431ebc4ae52af4759bc92a4d755d5855",
   "sample_size_bytes": 148997,
-  "total_records": 415
+  "total_records": 400
 }
