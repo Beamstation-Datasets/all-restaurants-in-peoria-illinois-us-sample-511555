@@ -1,6 +1,6 @@
 # All Restaurants in Peoria, Illinois, US
 
-> Free BeamStation sample export with 40 rows and masked direct-contact fields.
+> Free BeamStation sample export with 41 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `511555` |
 | Location | Peoria |
 | Category | Restaurants |
-| Full dataset size | 408 records |
-| Free sample size | 40 records (9.8%) |
-| Last export | 2026-04-29T01:54:03.221067+00:00 |
+| Full dataset size | 418 records |
+| Free sample size | 41 records (9.81%) |
+| Last export | 2026-05-08T13:52:26.001677+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-peoria-illinois-us-sample-511555/releases/download/sample-latest/beamstation_511555_restaurants-us-il_SAMPLE_DIST.csv) |
 
 ## What is in this sample
